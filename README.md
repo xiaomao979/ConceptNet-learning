@@ -1,2 +1,3 @@
 # ConceptNet-learning
-learning how to use ConceptNet
+学习如何使用ConceptNet网站
+
